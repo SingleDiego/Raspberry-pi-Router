@@ -25,3 +25,12 @@
 我使用 rufus 软件把固件烧录到 SD 卡中：
 
 ![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/01.png)
+
+烧录完毕后把 SD 卡插入树莓派，连上电源开机。
+
+<br>
+<hr>
+<br>
+
+### 登录 OpenWrt 管理后台
+
