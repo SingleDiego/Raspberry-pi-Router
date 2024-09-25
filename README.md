@@ -34,9 +34,18 @@
 
 ### 3.登录 OpenWrt 管理后台
 
-此时把树莓派接通电源开机，无需插入网线，可在电脑或手机等设备的无线连接界面看到一个名为 BleachWrt 的 wifi，（该 wifi 名称会根据固件版本不同而有所不同）。
+此时把树莓派接通电源开机，无需插入网线，可在电脑或手机等设备的无线连接界面看到一个名为 ``BleachWrt`` 的 wifi，（该 wifi 名称会根据固件版本不同而有所不同）。
 
 连接该 wifi，在浏览器访问 [192.168.1.1](192.168.1.1)，即可打开路由器的管理后台，用户名为：``root``，默认密码为：``password``（这些信息也会根据固件版本不同而有所区别）。
 
 ![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/02.png)
 
+<br>
+<hr>
+<br>
+
+### 4.密码设置
+
+首先修改路由器管理后台的登录密码，在 ``系统→管理权`` 处修改登录密码。
+
+![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/03.png)
