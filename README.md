@@ -38,4 +38,5 @@
 
 连接该 wifi，在浏览器访问 192.168.1.1，即可打开路由器的管理后台，用户名为：root，默认密码为：password（这些信息也会根据固件版本不同而有所区别）。
 
+![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/02.png)
 
