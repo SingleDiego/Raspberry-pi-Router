@@ -14,6 +14,8 @@
 
 下载地址：https://openwrt.mpdn.fun:8443/?dir=lede/bcm/
 
+我使用的是树莓派4b的 mini 版固件。
+
 <br>
 <hr>
 <br>
