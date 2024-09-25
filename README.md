@@ -51,3 +51,16 @@
 ![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/03.png)
 
 然后再设置一下 wifi 的密码
+
+（待补充）
+
+<br>
+<hr>
+<br>
+
+### 树莓派作为旁路由的接线方法
+
+先来看一下一张网络拓朴图：
+
+![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/04.png)
+
