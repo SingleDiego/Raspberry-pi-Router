@@ -62,6 +62,12 @@
 
 先来看一下一张网络拓朴图：
 
-![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/04.png)
+![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/04.png =100x200)
 
 图中可见旁路由在整个网络中的位置，只需要把树莓派的 ``LAN`` 口（也就是树莓派唯一的网口）和主路由的 ``LAN`` 口用网线连接起来即可。
+
+<br>
+<hr>
+<br>
+
+
