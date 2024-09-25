@@ -26,7 +26,7 @@
 
 ![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/01.png)
 
-烧录完毕后把 SD 卡插入树莓派，连上电源开机。
+烧录完毕后把 SD 卡插入树莓派。
 
 <br>
 <hr>
@@ -34,3 +34,4 @@
 
 ### 3.登录 OpenWrt 管理后台
 
+此时把树莓派接通电源开机，无需插入网线，可在电脑或手机等设备的无线连接界面看到一个名为 BleachWrt 的 wifi，（该 wifi 名称会根据固件版本不同而有所不同），连接该 wifi，在浏览器访问 192.168.1.1，即可打开路由器的管理后台。
