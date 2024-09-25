@@ -49,3 +49,5 @@
 首先修改路由器管理后台的登录密码，在 ``系统→管理权`` 处修改登录密码。
 
 ![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/03.png)
+
+然后再设置一下 wifi 的密码
