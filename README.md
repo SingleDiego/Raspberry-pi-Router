@@ -94,3 +94,8 @@
 
 ### 6.终端设置
 
+把要使用旁路由的终端设备（电脑、手机等）连接树莓派发射的 wifi，这时，终端设备的 IP 和网关等还是由主路由器的 DHCP 分配的，我们需要手动指定终端设备的 IP、网关和 DNS。
+
+![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/05.png)
+
+
