@@ -114,4 +114,6 @@ DNS 可以设定为和旁路由 IP 一样，也可以选择公共的 DNS。
 
 ![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/05.png)
 
+这样设置旁路由对于网络系统是非侵入性的，对主网络的影响最小，只对把网关设定为旁路由 IP 的设备产生影响，即使旁路由崩溃了也不会对主体网络产生影响。
+
 
