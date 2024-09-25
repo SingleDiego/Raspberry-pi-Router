@@ -24,4 +24,4 @@
 
 我使用 rufus 软件把固件烧录到 SD 卡中：
 
-https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/01.png
+(https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/01.png)
