@@ -24,7 +24,7 @@
 
 我使用 rufus 软件把固件烧录到 SD 卡中：
 
-![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/01.png)
+![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/01.png =509.5*528.5)
 
 烧录完毕后把 SD 卡插入树莓派。
 
