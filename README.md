@@ -9,7 +9,9 @@
 ### 固件选择
 
 树莓派使用的 OpenWrt 固件我选择了恩山论坛 bleach1991 编译的版本。
+
 详见：https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=8379758
+
 下载地址：https://openwrt.mpdn.fun:8443/?dir=lede/bcm/
 
 <br>
