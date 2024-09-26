@@ -40,6 +40,8 @@
 
 ![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/02.jpeg)
 
+在某些版本的固件可能没有默认打开 wifi，这时就需要用网线把树莓派和电脑的网口连接，再去访问 [192.168.1.1](192.168.1.1)。
+
 <br>
 <hr>
 <br>
