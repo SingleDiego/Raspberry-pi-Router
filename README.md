@@ -52,7 +52,7 @@
 
 然后再设置一下 wifi 的密码，在 ``网络→无线`` 中设置。
 
-![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/06.jpg)
+![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/06.jpeg)
 
 
 <br>
