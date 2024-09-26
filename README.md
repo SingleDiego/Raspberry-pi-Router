@@ -125,7 +125,7 @@
 
 ![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/13.jpeg)
 
-在 ``区域→转发`` 的 ``LAN 口 IP 动态伪装开启，这可避免很多网络问题。
+在 ``区域→转发`` 的 LAN 口 IP 动态伪装开启，这可避免很多网络问题。
 
 ![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/14.jpeg)
 
