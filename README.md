@@ -104,9 +104,20 @@
 
 ![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/09.jpeg)
 
-旁路由的 DHCP 服务器应该关闭，本例中，局域网内的 DHCP 服务交由主路由负责即可。
+旁路由的 DHCP 服务器应该关闭，本例中，局域网内的 DHCP 服务交由主路由负责即可，我们把 ``忽略此接口`` 勾上。
 
 ![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/10.jpeg)
+
+##### 其它设置
+
+把 IPv6 关掉，需要把 ``IPv6 分配长度`` 禁用。
+
+![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/11.jpeg)
+
+在 ``高级设置→使用内置的 IPv6 管理`` 处取消勾选。
+
+![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/12.jpeg)
+
 
 ##### 防火墙设置
 
