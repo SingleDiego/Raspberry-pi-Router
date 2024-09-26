@@ -56,6 +56,9 @@
 
 ![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/04.jpeg)
 
+在 ``接口配置→无线安全`` 中设定 wifi 加密方式和密码。
+
+![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/05.jpeg)
 
 <br>
 <hr>
