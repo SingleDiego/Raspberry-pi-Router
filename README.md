@@ -108,7 +108,7 @@
 
 ![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/10.jpeg)
 
-##### 其它设置
+##### 关闭 IPv6
 
 把 IPv6 关掉，需要把 ``IPv6 分配长度`` 禁用。
 
@@ -121,7 +121,13 @@
 
 ##### 防火墙设置
 
-（待补充）
+在防火墙设置里把 SYN 防御关掉，FullCone-NAT 也禁用。
+
+![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/13.jpeg)
+
+在 ``区域→转发`` 的 ``LAN 口 IP 动态伪装开启，这可避免很多网络问题。
+
+![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/14.jpeg)
 
 <br>
 <hr>
