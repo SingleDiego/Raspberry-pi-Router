@@ -50,9 +50,10 @@
 
 ![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/03.png)
 
-然后再设置一下 wifi 的密码
+然后再设置一下 wifi 的密码，在 ``网络→无线`` 中设置。
 
-（待补充）
+![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/06.jpg)
+
 
 <br>
 <hr>
