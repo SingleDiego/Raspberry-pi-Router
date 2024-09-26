@@ -94,11 +94,19 @@
 
 ##### 修改旁路由网关
 
-（待补充）
+我们要把旁路由的网关地址指向主路由的 IP，我的主路由 IP 是 ``192.168.10.1``，所以旁路由网关也要设定为 ``192.168.10.1``。
 
-##### 修改旁路由 DHCP 和 DNS
+![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/08.jpeg)
 
-（待补充）
+##### 修改旁路由 DNS 和 DHCP
+
+旁路由的 DNS 可以设定为主路由的 IP 或者使用公共 DNS 也可以。
+
+![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/09.jpeg)
+
+旁路由的 DHCP 服务器应该关闭，本例中，局域网内的 DHCP 服务交由主路由负责即可。
+
+![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/10.jpeg)
 
 ##### 防火墙设置
 
