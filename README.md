@@ -80,7 +80,11 @@
 
 ##### 修改旁路由 lan 口 IP
 
-（待补充）
+我们需要把旁路由的 IP 设定为和主路由 IP 在同一网段，我使用的路由器默认 IP 地址为 ``192.168.10.1``，所以旁路由的 IP 要设为 ``192.168.10.110``。
+
+在 ``网络→接口`` 中的 LAN 口修改。
+
+![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/06.jpeg)
 
 ##### 修改旁路由网关
 
