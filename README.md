@@ -24,7 +24,7 @@
 
 我使用 rufus 软件把固件烧录到 SD 卡中：
 
-![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/01.png =509.5*528.5)
+![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/01.png)
 
 烧录完毕后把 SD 卡插入树莓派。
 
@@ -38,7 +38,7 @@
 
 连接该 wifi，在浏览器访问 [192.168.1.1](192.168.1.1)，即可打开路由器的管理后台，用户名为：``root``，默认密码为：``password``（这些信息也会根据固件版本不同而有所区别）。
 
-![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/02.png)
+![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/02.jpeg)
 
 <br>
 <hr>
