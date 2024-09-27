@@ -121,7 +121,7 @@
 
 * **防火墙设置**
 
-在防火墙设置里把 SYN 防御关掉，FullCone-NAT 也禁用。
+在防火墙设置里把 ``SYN`` 防御关掉，``FullCone-NAT`` 也禁用。
 
 ![](https://github.com/SingleDiego/Raspberry-pi-Router/blob/main/imgs/13.jpeg)
 
